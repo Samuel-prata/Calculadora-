@@ -4,6 +4,8 @@
 <img src = "src/assets/img/samuCalcula.png">
 
 `Desafio 3 do curso de Front end na escola Vai na Web`
+
+## Instrutora: 
 <table>
   <tr>
     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt=""/><br /><sub><b>Maria Carolina</b></sub></a><br /><a href="https://github.com/mariaccarolina" title="Maria Carolina">🧑‍🏫</a></td> 
