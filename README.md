@@ -41,5 +41,5 @@ Desenvolver uma Calculadora web simples usando React que seja capaz de realizar 
 ## Instrutora: 
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt=""/><br /><sub><b>Maria Carolina</b></sub></a><br /><a href="https://github.com/mariaccarolina" title="Maria Carolina">🧑‍🏫</a></td> 
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt=""/><br /><sub><b>Maria Carolina</b></sub></a><br /><a href="https://github.com/mariaccarolina" title="Maria Carolina">Github</a></td> 
 </tr>
