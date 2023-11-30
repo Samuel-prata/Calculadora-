@@ -5,13 +5,6 @@
 
 `Desafio 3 do curso de Front end na escola Vai na Web`
 
-## Instrutora: 
-<table>
-  <tr>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt=""/><br /><sub><b>Maria Carolina</b></sub></a><br /><a href="https://github.com/mariaccarolina" title="Maria Carolina">🧑‍🏫</a></td> 
-</tr>
-
-
 ## Objetivo e Requisitos 🚀
 
 Desenvolver uma Calculadora web simples usando React que seja capaz de realizar operações básicas de matemática e faça uso de styled-components para estilização.
@@ -45,3 +38,8 @@ Desenvolver uma Calculadora web simples usando React que seja capaz de realizar 
    
    - Seja criativo! Personalize cores, bordas, sombras e transições para tornar sua calculadora única.
 ---
+## Instrutora: 
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt=""/><br /><sub><b>Maria Carolina</b></sub></a><br /><a href="https://github.com/mariaccarolina" title="Maria Carolina">🧑‍🏫</a></td> 
+</tr>
