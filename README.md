@@ -4,13 +4,10 @@
 <img src = "src/assets/img/samuCalcula.png">
 
 `Desafio 3 do curso de Front end na escola Vai na Web pela instrutora técnica: `
-<a href="#" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub><br>
-          <b>Maria Carolina</b>
-          [Github](https://github.com/mariaccarolina)
-        </sub>
-      </a>
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Silvério</b></sub></a><br /><a href="https://github.com/mariaccarolina" title="Maria Carolina">🧑‍🏫</a></td> 
+</tr>
 
 
 ## Objetivo e Requisitos 🚀
