@@ -6,7 +6,7 @@
 `Desafio 3 do curso de Front end na escola Vai na Web pela instrutora técnica: `
 <a href="#" title="defina o titulo do link">
         <img src="https://avatars.githubusercontent.com/u/86030731?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
-        <sub>
+        <sub><br>
           <b>Maria Carolina</b>
           [Github](https://github.com/mariaccarolina)
         </sub>
